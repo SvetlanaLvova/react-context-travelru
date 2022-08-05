@@ -10,6 +10,10 @@
 **Server:** Node, Express, JWT
 
 **DB:** PostgreSQL
+  
+  <h1> Installation </h1>
+
+Install GoMove with npm
 </div>
 
 
