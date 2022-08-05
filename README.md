@@ -3,17 +3,18 @@
 </div>
 
 <div>
-<h1> Tech Stack </h1>
+<h1> Технический стек: </h1>
 
-**Client:** React, Redux, Chart.js, Material UI
+**Client:** React, Materialize
 
-**Server:** Node, Express, JWT
+**Server:** Node, Express
 
 **DB:** PostgreSQL
   
-  <h1> Installation </h1>
-
-Install Travel.ru with npm
+  <div>
+  В приложении реализованы функции добавления карточки, поиск нужной карточки и ее удаление. 
+  А так же роутинг и возможность просмотра выбранной карточки.
+  </div>
 </div>
 
 
