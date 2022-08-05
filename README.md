@@ -1,5 +1,7 @@
-Чтобы запустить, необходимо в папках client и server запустить 2 команды:
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73392762/183078161-b22f58f9-f834-4864-897d-72d4b5957140.png"/>
+</div>
+<div>Описание тут</div>
 
-npm i
 
-npm start
+
