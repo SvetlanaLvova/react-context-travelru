@@ -13,7 +13,7 @@
   
   <h1> Installation </h1>
 
-Install GoMove with npm
+Install Travel.ru with npm
 </div>
 
 
